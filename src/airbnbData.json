@@ -1,0 +1,58 @@
+[
+    {
+        "image": "https://images.unsplash.com/photo-1431037242647-4c2c27cb5bb1?ixlib=rb-1.2.1&auto=format&fit=crop&w=987&q=80",
+        "rating": 4.9,
+        "reviewCount": 50,
+        "country": "France",
+        "title": "Paris Romance",
+        "price": 500
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1635670459054-67c83fab741e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80",
+        "rating": 4.2,
+        "reviewCount": 25,
+        "country": "Japan",
+        "title": "Bamboo Forest Hike",
+        "price": 250
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1673257223810-d08036235fa2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGtyb25nJTIwc2llbSUyMHJlYXB8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+        "rating": 4.8,
+        "reviewCount": 40,
+        "country": "Cambodia",
+        "title": "Cambodian Pateron",
+        "price": 180
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1523538290088-51e3e7d1c00d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fFBodWtldCUyMEJlYWNoJTIwUmV0cmVhdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+        "rating": 4.3,
+        "reviewCount": 25,
+        "country": "Thailand",
+        "title": "Phuket Beach Retreat",
+        "price": 250
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1651522508091-2c0b0fe66730?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fFR1c2NhbnklMjBDb3VudHJ5c2lkZSUyMFZpbGxhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "rating": 4.8,
+        "reviewCount": 40,
+        "country": "Italy",
+        "title": "Tuscany Countryside Villa",
+        "price": 450
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1514924013411-cbf25faa35bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fEJhcmNlbG9uYSUyMENpdHklMjBCcmVha3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+        "rating": 4.6,
+        "reviewCount": 30,
+        "country": "Spain",
+        "title": "Barcelona City Break",
+        "price": 350
+    },
+    {
+        "image": "https://images.unsplash.com/photo-1542542540-6da0f4dd4b51?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fFRva3lvJTIwQ3VsdHVyYWwlMjBUb3VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+        "rating": 4.2,
+        "reviewCount": 20,
+        "country": "Japan",
+        "title": "Tokyo Cultural Tour",
+        "price": 400
+    }
+]
