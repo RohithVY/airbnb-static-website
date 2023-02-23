@@ -2,6 +2,8 @@
 
 <h2>Introduction</h2>
 
+![image](https://user-images.githubusercontent.com/110025038/220823014-2b36349d-a9c1-4de3-8152-617405aab7fa.png)
+
 <p>Welcome to the Airbnb website, a sample website created to help you revise basic React concepts. This website is not meant to provide any services or functionality, but rather serves as an example of how you can build a simple static website using React.</p>
 
 <h2>Features</h2>
